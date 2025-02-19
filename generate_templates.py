@@ -72,10 +72,11 @@ The Obsidian WebClipper Template Generator is designed to streamline the setup o
 
 ## Versioning Details
 
-- **Script Version**: 1.0.0  
+- **Script Version**: 1.2.0  
 - **Last Updated**: 2025-02-18  
 - **Change Log**:
   - **v1.0.0**: Initial release with full template generation and guidance documentation.
+  - **v1.2.0**: updated bug in JSON properties causing error in import of templates.
 
 ## Example Usage in Production
 
